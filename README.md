@@ -19,7 +19,5 @@ The data dictionary for the dataset is as follows:
 - `Cabin`: Cabin number
 - `Embarked`: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-## Objective
-The main objective of this project is to analyze the given dataset and determine which categories of people were more likely to survive the Titanic disaster. By examining various factors such as ticket class, gender, age, and other variables, we can gain insights into the factors that influenced the survival rates of the passengers.
 
 
